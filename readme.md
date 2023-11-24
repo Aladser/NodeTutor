@@ -4,4 +4,6 @@
 
 ## [* Таймер](/pages/timer.md)
 
-## [* Таймер](/pages/modules.md)
+## [* Модули](/pages/modules.md)
+
+## [* Подключение модуля fs в NodeJS](/pages/sync_wr.md)
