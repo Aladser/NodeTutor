@@ -1,4 +1,4 @@
-## Сокращение fs.promises в NodeJS
+### Сокращение fs.promises в NodeJS
 
 Вспомним, как мы подключали модуль fs:
 
